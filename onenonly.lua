@@ -5,3 +5,4 @@ opened 80 tcp/udp so angriff logs work
 set saltynui opacity to 0.90
 Re-Added Plane Smoke
 Changed Loadingscreen font and color to match logo
+Added Killhouse Blip
