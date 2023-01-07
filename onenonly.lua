@@ -6,3 +6,4 @@ set saltynui opacity to 0.90
 Re-Added Plane Smoke
 Changed Loadingscreen font and color to match logo
 Added Killhouse Blip
+Added crouch with keymapping
